@@ -101,7 +101,7 @@ service-worker: true
 links: [
     {
         title: "个人のGitHub",
-        href: "https://github.com/FujishiroOtone	"
+        href: "https://github.com/sushitong-hello"
     },{
         title: "qq",
         href: "http://wpa.qq.com/msgrd?v=3&uin=3354355977&site=qq&menu=yes
